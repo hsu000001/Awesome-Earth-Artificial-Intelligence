@@ -38,7 +38,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [American Meterological Survey AI Webinar Series](https://www.ametsoc.org/index.cfm/ams/webinar-directory/)
 
-* [USGS Artificial Intelligence/Machine Learning Workshop](https://my.usgs.gov/confluence/pages/viewpage.action?pageId=613780355)
+* [USGS Artificial Intelligence/Machine Learning Workshop](https://dbuscombe-usgs.github.io/MLMONDAYS/)
 
 ## Books
 
